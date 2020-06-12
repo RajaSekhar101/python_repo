@@ -1,0 +1,5 @@
+a=input("Enter First String")
+b=input("Enter Second String")
+print("a Value before replace: ",a)
+a="".join(b)
+print("a Value after replace: ",a)
